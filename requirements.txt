@@ -23,3 +23,8 @@ xlrd==2.0.1
 pytest==8.0.0
 black==24.3.0
 python-dotenv==1.0.1
+
+
+telethon 
+nest-asyncio
+dotenv
